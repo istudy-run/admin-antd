@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d217709"],{c776:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n._self._c;return e("Card",{attrs:{shadow:""}},[n._v("多级菜单 -> 二级-3")])},l=[],s={name:"level_2_3"},u=s,c=t("2877"),r=Object(c["a"])(u,a,l,!1,null,null,null);e["default"]=r.exports}}]);
