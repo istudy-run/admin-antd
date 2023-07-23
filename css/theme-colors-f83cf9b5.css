@@ -254,13 +254,14 @@ html{--antd-wave-shadow-color:#1890ff}
 .antd-tabs .ant-tabs.ant-tabs-card>.ant-tabs-bar .ant-tabs-tab-active .antd-tabs-dot-inner,.antd-tabs .ant-tabs.ant-tabs-card>.ant-tabs-bar .ant-tabs-tab-active:hover .antd-tabs-dot-inner{background:#1890ff}
 .ant-radio-wrapper-checked.ant-radio-border{border-color:#1890ff}
 .ant-radio-wrapper-checked.ant-radio-block{color:#1890ff}
+.antd-grid-item-main a:hover{color:#1890ff}
 .ant-menu-vertical .ant-menu-submenu-selected,.ant-menu-vertical-left .ant-menu-submenu-selected,.ant-menu-vertical-right .ant-menu-submenu-selected{background:#e6f7ff;border-right:2px solid #1890ff}
 .ant-menu-inline .ant-menu-item:after,.ant-menu-vertical .ant-menu-item:after,.ant-menu-vertical-left .ant-menu-item:after,.ant-menu-vertical-right .ant-menu-item:after{border-right:2px solid #1890ff}
 .antd-pro-pages-forms-style-errorListItem[data-v-15d77e12]:hover{background:#e6f7ff}
-.project-list .card-title a[data-v-586d23ea]:hover{color:#1890ff}
-.project-list .project-item a[data-v-586d23ea]:hover{color:#1890ff}
-.members a:hover span[data-v-586d23ea]{color:#1890ff}
 .monitor-view .monitor-progress-group[data-v-e7bda65e] .ant-progress:nth-child(2) .ant-progress-circle-trail{stroke:#e6f7ff!important}
+.project-list .card-title a[data-v-5fe54cf6]:hover{color:#1890ff}
+.project-list .project-item a[data-v-5fe54cf6]:hover{color:#1890ff}
+.members a:hover span[data-v-5fe54cf6]{color:#1890ff}
 .ant-modal-confirm-info .ant-modal-confirm-body>.anticon{color:#1890ff}
 .ant-message-info .anticon,.ant-message-loading .anticon{color:#1890ff}
 .anticon.ant-notification-notice-icon-info{color:#1890ff}
