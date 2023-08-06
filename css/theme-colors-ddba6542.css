@@ -248,7 +248,7 @@ html{--antd-wave-shadow-color:#1890ff}
 .antd-logo-text-header-primary{background:#1890ff}
 .antd-logo-img-header-primary{background:#1890ff}
 .antd-loading-bar-inner-color-primary{background-color:#1890ff}
-.antd-blockquote{border-left:5px solid #1890ff}
+.antd-blockquote-primary{border-left-color:#1890ff}
 .antd-tabs .ant-tabs.ant-tabs-card>.ant-tabs-bar .ant-tabs-tab-active,.antd-tabs .ant-tabs.ant-tabs-card>.ant-tabs-bar .ant-tabs-tab-active:hover{color:#1890ff}
 .antd-tabs .ant-tabs.ant-tabs-card>.ant-tabs-bar .ant-tabs-tab-active .antd-tabs-dot-inner,.antd-tabs .ant-tabs.ant-tabs-card>.ant-tabs-bar .ant-tabs-tab-active:hover .antd-tabs-dot-inner{background:#1890ff}
 .ant-radio-wrapper-checked.ant-radio-border{border-color:#1890ff}
