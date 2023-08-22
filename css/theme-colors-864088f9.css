@@ -241,7 +241,7 @@ html{--antd-wave-shadow-color:#1890ff}
 .ant-upload.ant-upload-drag:not(.ant-upload-disabled):hover{border-color:#40a9ff}
 .ant-upload.ant-upload-drag p.ant-upload-drag-icon .anticon{color:#40a9ff}
 .ant-upload-list-item:hover .ant-upload-list-item-info{background-color:#e6f7ff}
-.ant-text-primary{color:#1890ff}
+.ant-text-primary,.ant-text-primary:hover{color:#1890ff}
 .antd-login-container-other .item-icon:hover{color:#1890ff}
 .antd-header-primary{background:#1890ff}
 .antd-icon-selector ul li.active,.antd-icon-selector ul li:hover{background-color:#1890ff}
