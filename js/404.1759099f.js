@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["404"],{cc89:function(n,t,c){"use strict";c.r(t);var e={components:{Exception:c("2af9").g}},o=c("2877"),s=Object(o.a)(e,(function(){return(0,this._self._c)("Exception",{attrs:{type:"404",imgColor:"",desc:"Oh~您的页面好像飞走了~"}})}),[],!1,null,null,null);t.default=s.exports}}]);
